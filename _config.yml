@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Kat's Designs
 header-img: img/home-bg.png
 email: kaylinmaa@gmail.com
 copyright_name: kaylinmaa
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Web and graphic design
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kaylinmaa
